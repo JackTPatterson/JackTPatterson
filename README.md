@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S821UTI)
 <!--
 **JackTPatterson/JackTPatterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
