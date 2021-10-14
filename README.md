@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Swift**
 
-- 👨‍💻 All of my projects are available at [http://jpdigital.info](http://jpdigital.info)
+- 👨‍💻 All of my projects are available at [https://jpdigital.info](https://jpdigital.info)
 
 - 📫 How to reach me **jpdigital@gmail.com**
 
