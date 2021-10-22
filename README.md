@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SHSE-MHS**
 
-- 🌱 I’m currently learning **React and Swift**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [https://jpdigital.info](https://jpdigital.info)
 
