@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">My name is Jack. I'm 17 years old, I am a senior in high school, and I live in New York.</h3>
+<h3 align="center">My name is Jack. I'm 18 years old, I am a senior in high school, and I live in New York.</h3>
 
 - 🔭 I’m currently working on **SHSE-MHS**
 
