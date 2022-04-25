@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">My name is Jack. I'm 18 years old, I am a senior in high school, and I live in New York.</h3>
 
-- 🔭 I’m currently working on **FRCS**
+<!--- 🔭 I’m currently working on **** -->
 
-- 🌱 I’m currently learning **Solidity**
+- 📖 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://jpdigital.info](https://jpdigital.info)
 
