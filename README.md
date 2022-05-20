@@ -5,7 +5,7 @@
 
 - 📖 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://jpdigital.info](https://jpdigital.info)
+<!--- 👨‍💻 All of my projects are available at [https://jpdigital.info](https://jpdigital.info) -->
 
 - 📫 How to reach me **jtyler03@optonline.net**
 
