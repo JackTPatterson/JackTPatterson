@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning React Native
 
 - 📫 How to reach me **jtyler03@optonline.net**
 
