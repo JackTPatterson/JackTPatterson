@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning React Native
 
-- 📫 How to reach me **jtyler03@optonline.net**
+- 📫 How to reach me **jtpatt03@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
