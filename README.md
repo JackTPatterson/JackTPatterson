@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently working on an event ticketing startup
 
 - 📫 How to reach me **jtpatt03@gmail.com**
 
