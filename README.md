@@ -22,11 +22,11 @@ I design and ship software end to end, from macOS apps and agent integrations to
 
 ## iOS apps
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ios-apps-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/ios-apps-light.png">
-  <img src="assets/ios-apps-light.png" width="100%" alt="Rinkside, Fern, and Locklandia. Rinkside delivers live hockey scores, standings, player stats, and league stories. Fern provides tax-aware budgeting for self-employed people. Locklandia provides accountable app blocking with a two-person lock.">
-</picture>
+<p align="center">
+  <a href="https://apps.apple.com/us/app/rinkside-hockey-stats/id6762891002"><img src="assets/rinkside-preview.png" width="31%" alt="Rinkside App Store preview showing live hockey scores and game statistics"></a>
+  <a href="https://apps.apple.com/us/app/fern-self-employed-taxes/id6785351947"><img src="assets/fern-preview.png" width="31%" alt="Fern App Store preview showing tax-aware budgeting for self-employed people"></a>
+  <img src="assets/locklandia-preview.png" width="31%" alt="Locklandia device preview showing its current focus dashboard and Screen Time controls">
+</p>
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/rinkside-hockey-stats/id6762891002">Rinkside on the App Store</a>
