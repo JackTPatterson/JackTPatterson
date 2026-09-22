@@ -1,12 +1,30 @@
-<h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A passionate frontend developer from New York</h3>
+# Jack Patterson
 
-- 🌱 I’m currently working on an event ticketing startup
+**Product engineer building native tools for AI-powered work.**
 
-- 📫 How to reach me **jtpatt03@gmail.com**
+I design and ship software end to end—from macOS apps and agent integrations to full-stack platforms. Right now, I’m focused on making multi-agent development feel coherent, local, and dependable.
 
+[JPX Software](https://jpxsoftware.studio) · [Email](mailto:jpatterson@jpdigital.studio)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Featured work
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacktpatterson&show_icons=true&locale=en&layout=compact" alt="jacktpatterson" /></p>
+### [Octet](https://github.com/JackTPatterson/octet)
+
+A native macOS terminal and workspace for running coding agents side by side. Octet adds agent-aware tabs, session recovery, native conversation views, and one shared marketplace for MCP servers, plugins, skills, and prompts—while every agent continues to run as its real local process.
+
+`Swift` `SwiftUI` `AppKit` `GhosttyKit` `Agent tooling`
+
+## What I work on
+
+- Native macOS products with thoughtful, keyboard-first interfaces
+- AI-agent infrastructure, integrations, and developer experience
+- Full-stack product engineering across TypeScript, React, Node.js, and PostgreSQL
+- Production systems, CI/CD, platform reliability, and rapid prototyping
+
+## Now
+
+- Building **Octet** in the open
+- Leading AI-driven product and platform work at **Go!Foton**
+- Taking on select automation and product engagements through [JPX Software](https://jpxsoftware.studio)
+
+If you’re working on developer tools, agent workflows, or ambitious native software, [let’s talk](mailto:jpatterson@jpdigital.studio).
