@@ -8,20 +8,35 @@ I design and ship software end to end—from macOS apps and agent integrations t
 
 ## Featured work
 
-### [Octet](https://github.com/JackTPatterson/octet)
-
-A native macOS terminal and workspace for running coding agents side by side. Octet adds agent-aware tabs, session recovery, native conversation views, and one shared marketplace for MCP servers, plugins, skills, and prompts—while every agent continues to run as its real local process.
-
-`Swift` `SwiftUI` `AppKit` `GhosttyKit` `Agent tooling`
+<table>
+  <tr>
+    <td width="88" align="center"><img src="assets/octet.png" width="72" alt="Octet logo"></td>
+    <td><strong><a href="https://github.com/JackTPatterson/octet">Octet</a></strong><br>A native macOS terminal and workspace for running coding agents side by side. Agent-aware tabs, session recovery, native conversation views, and a shared marketplace—all over the real local agent process.<br><sub>Swift · SwiftUI · AppKit · GhosttyKit · Agent tooling</sub></td>
+  </tr>
+</table>
 
 ## Selected products
 
 Most of my product work is closed source. Recent projects include:
 
-- **Locklandia** — An iOS app blocker with a two-person lock, built for accountability without surveillance. Core blocking stays free and on-device; connected features are optional.
-- **Fern** — Tax-aware budgeting for self-employed people, with shared financial logic across a mobile app and API.
-- **Assay** — A quantitative backtesting and deployment platform built around walk-forward validation and honest performance measurement.
-- **VialSync** — A mobile research tracker for medicines and treatment history.
+<table>
+  <tr>
+    <td width="72" align="center"><img src="assets/locklandia.png" width="56" alt="Locklandia logo"></td>
+    <td><strong>Locklandia</strong><br>An iOS app blocker with a two-person lock, built for accountability without surveillance. Core blocking stays free and on-device; connected features are optional.</td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><img src="assets/fern.png" width="56" alt="Fern logo"></td>
+    <td><strong>Fern</strong><br>Tax-aware budgeting for self-employed people, with shared financial logic across a mobile app and API.</td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><img src="assets/assay.png" width="56" alt="Assay logo"></td>
+    <td><strong>Assay</strong><br>A quantitative backtesting and deployment platform built around walk-forward validation and honest performance measurement.</td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><img src="assets/vialsync.png" width="56" alt="VialSync logo"></td>
+    <td><strong>VialSync</strong><br>A mobile research tracker for medicines and treatment history.</td>
+  </tr>
+</table>
 
 ## What I work on
 
