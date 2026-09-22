@@ -14,6 +14,15 @@ A native macOS terminal and workspace for running coding agents side by side. Oc
 
 `Swift` `SwiftUI` `AppKit` `GhosttyKit` `Agent tooling`
 
+## Selected products
+
+Most of my product work is closed source. Recent projects include:
+
+- **Locklandia** — An iOS app blocker with a two-person lock, built for accountability without surveillance. Core blocking stays free and on-device; connected features are optional.
+- **Fern** — Tax-aware budgeting for self-employed people, with shared financial logic across a mobile app and API.
+- **Assay** — A quantitative backtesting and deployment platform built around walk-forward validation and honest performance measurement.
+- **VialSync** — A mobile research tracker for medicines and treatment history.
+
 ## What I work on
 
 - Native macOS products with thoughtful, keyboard-first interfaces
