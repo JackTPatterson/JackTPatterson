@@ -32,10 +32,6 @@ Most of my product work is closed source. Recent projects include:
     <td width="72" align="center"><img src="assets/assay.png" width="56" alt="Assay logo"></td>
     <td><strong>Assay</strong><br>A quantitative backtesting and deployment platform built around walk-forward validation and honest performance measurement.</td>
   </tr>
-  <tr>
-    <td width="72" align="center"><img src="assets/vialsync.png" width="56" alt="VialSync logo"></td>
-    <td><strong>VialSync</strong><br>A mobile research tracker for medicines and treatment history.</td>
-  </tr>
 </table>
 
 ## What I work on
