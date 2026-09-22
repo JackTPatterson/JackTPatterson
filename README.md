@@ -13,6 +13,10 @@ I design and ship software end to end—from macOS apps and agent integrations t
     <td width="88" align="center"><img src="assets/octet.png" width="72" alt="Octet logo"></td>
     <td><strong><a href="https://github.com/JackTPatterson/octet">Octet</a></strong><br>A native macOS terminal and workspace for running coding agents side by side. Agent-aware tabs, session recovery, native conversation views, and a shared marketplace—all over the real local agent process.<br><sub>Swift · SwiftUI · AppKit · GhosttyKit · Agent tooling</sub></td>
   </tr>
+  <tr>
+    <td width="88" align="center"><img src="assets/rinkside.png" width="72" alt="Rinkside logo"></td>
+    <td><strong><a href="https://apps.apple.com/us/app/rinkside-hockey-stats/id6762891002">Rinkside</a></strong><br>Live scores, standings, player stats, and league storylines in a fast, privacy-first hockey app for iPhone and iPad. <a href="https://github.com/JackTPatterson/Rinkside">Source</a><br><sub>React Native · Expo · TypeScript · NHL data</sub></td>
+  </tr>
 </table>
 
 ## Selected products
@@ -26,7 +30,7 @@ Most of my product work is closed source. Recent projects include:
   </tr>
   <tr>
     <td width="72" align="center"><img src="assets/fern.png" width="56" alt="Fern logo"></td>
-    <td><strong>Fern</strong><br>Tax-aware budgeting for self-employed people, with shared financial logic across a mobile app and API.</td>
+    <td><strong><a href="https://apps.apple.com/us/app/fern-self-employed-taxes/id6785351947">Fern</a></strong><br>Tax-aware budgeting for freelancers and self-employed people: review income, estimate a reserve, and see what is safe to spend.<br><sub>iPhone &amp; iPad · App Store</sub></td>
   </tr>
   <tr>
     <td width="72" align="center"><img src="assets/assay.png" width="56" alt="Assay logo"></td>
