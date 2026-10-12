@@ -25,7 +25,7 @@ I design and ship software end to end, from macOS apps and agent integrations to
 <p align="center">
   <a href="https://apps.apple.com/us/app/rinkside-hockey-stats/id6762891002"><img src="assets/rinkside-preview.png" width="31%" alt="Rinkside App Store preview showing live hockey scores and game statistics"></a>
   <a href="https://apps.apple.com/us/app/fern-self-employed-taxes/id6785351947"><img src="assets/fern-preview.png" width="31%" alt="Fern App Store preview showing tax-aware budgeting for self-employed people"></a>
-  <img src="assets/locklandia-preview.png" width="31%" alt="Locklandia device preview showing its current focus dashboard and Screen Time controls">
+  <img src="assets/locklandia-preview.png" width="31%" alt="Locklandia preview showing today's focus goal ring and a 30-day focus chart">
 </p>
 
 <p align="center">
